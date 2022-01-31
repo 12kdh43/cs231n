@@ -25,6 +25,6 @@ Following the course of Stanford [CS231n: Convolutional Neural Networks for Visu
 - [Q4: Generative Adversarial Networks(TensorFlow)](https://github.com/12kdh43/cs231n/blob/master/assignment3_2020/Generative_Adversarial_Networks_TF.ipynb)
 - [Q5: Self-Supervised Learning for Image Classification(PyTorch)](https://github.com/12kdh43/cs231n/blob/master/assignment3/Self_Supervised_Learning.ipynb)
 
-*Assignment3 - Q3, Q4 are not provided with TensorFlow version in 2021, replaced with for notebooks in 2020. *  
-*Summaries for the lecutres are in my [blog](https://12kdh43.github.io/tag/cs231n/). *  
-*2022-01-31, All works complete. *
+*Assignment3 - Q3, Q4 are not provided with TensorFlow version in 2021, replaced with for notebooks in 2020.  
+*Summaries for the lecutres are in my [blog](https://12kdh43.github.io/tag/cs231n/).  
+*2022-01-31, All works complete.  
