@@ -1,4 +1,4 @@
-## CS231n Assignments Soultion Spring 2021
+## CS231n Assignment Soultions Spring 2021
 Following the course of Stanford [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html), this repository is for my solutions for the assignments of the course.  
 
 ### Assignment 1
@@ -25,6 +25,6 @@ Following the course of Stanford [CS231n: Convolutional Neural Networks for Visu
 - [Q4: Generative Adversarial Networks(TensorFlow)](https://github.com/12kdh43/cs231n/blob/master/assignment3_2020/Generative_Adversarial_Networks_TF.ipynb)
 - [Q5: Self-Supervised Learning for Image Classification(PyTorch)](https://github.com/12kdh43/cs231n/blob/master/assignment3/Self_Supervised_Learning.ipynb)
 
-*Since the TensorFlow version of Assignment3 - Q3, Q4 are not provided in 2021, replaced with 2020 notebooks.  
+*Since the TensorFlow version of Assignment3 - Q3, Q4 are not provided in 2021, replaced with notebooks from 2020.  
 *Summaries for the lecutres are in my [blog](https://12kdh43.github.io/tag/cs231n/).  
 *2022-01-31, All works complete.  
